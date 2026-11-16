@@ -5,3 +5,4 @@ __pycache__/
 data/retail.db
 data/*.xlsx
 data/*.csv
+!retail_summary.db
