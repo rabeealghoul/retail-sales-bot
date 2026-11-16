@@ -24,7 +24,13 @@ Python, pandas, SQL (SQLite), FastAPI, Uvicorn, n8n, ngrok, Telegram Bot API
    
    
   <img src="images/bot_demo.png" width="450" alt="Bot demo">
+## Dashboard
 
+An interactive Streamlit dashboard with a country filter, KPIs, monthly revenue, and top products.
+
+![Dashboard](images/dashbord.png)
+
+Run it with: `streamlit run dashboard.py`
 ## Project Structure
 - `load_db.py`: loads the data into SQLite
 - `queries.py`: SQL queries for the analysis
